@@ -1,4 +1,4 @@
-### Hi, my name is Andrew, graduated in Computer Science at Unicamp. Today working at Google LLC!
+### Hi, my name is Andrew Luigi, graduated in Computer Science at Unicamp. Today working at Google LLC!
 
 <div align="center">
   <a href="https://github.com/Andrew-do-Futuro">
