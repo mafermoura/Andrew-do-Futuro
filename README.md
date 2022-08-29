@@ -1,4 +1,4 @@
-### Hi, my name is Andrew Luigi, graduated in Computer Science at Unicamp. Today working at Google LLC!
+### I'm Brazilian, Full Stack developer, with over 5 years of experience in web development, passionate about creating solutions based on my experiences!
 
 <div align="center">
   <a href="https://github.com/Andrew-do-Futuro">
@@ -29,3 +29,6 @@
 </div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  
+🎓 Graduated in Computer Science at UNICAMP
